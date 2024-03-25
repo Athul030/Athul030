@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="Spring logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularts-plain-wordmark.svg" height="40" alt="Angular logo" />
+  <img src="https://angular.io/assets/images/logos/angular/angular.png" height="40" alt="Angular logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL logo" />
   <img width="12" />
